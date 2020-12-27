@@ -1,8 +1,7 @@
 base_url = "https://byronhambly.com"
+title = "Byron Hambly"
 
-# Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
-
 highlight_code = false
 build_search_index = false
 
