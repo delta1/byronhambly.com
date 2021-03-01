@@ -9,7 +9,6 @@ build_search_index = false
 links = [
     { text = "dev blog", url = "https://hambly.dev", hostname = "hambly.dev"},
     { text = "@delta1", url = "https://github.com/delta1", hostname = "github.com"},
-    { text = "@byronhambly", url = "https://instagram.com/byronhambly", hostname = "instagram.com"},
     { text = "email", url = "mailto:byron.hambly@gmail.com", hostname = "gmail.com"},
     { text = "keybase", url = "https://keybase.io/byronhambly", hostname = "keybase.io"},
     { text = "linkedin", url = "https://www.linkedin.com/in/byronhambly/", hostname = "linkedin.com"},
